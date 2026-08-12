@@ -12,3 +12,18 @@
 
 `super + space + backspace` = Move back to the original position
 
+# Tab control
+
+`ctrl + pgup or pgdn` = Move to next or prev tab.
+
+`ctrl + number` = Move that specific tab number.
+
+`ctl + tab` = Move to the next tab
+
+`ctl + shift + tab` = Move to the previous tab
+
+# History
+
+`alt + left or right` = Move forward or backward in history
+
+`ctrl + shift + t` = Restore closed tab
