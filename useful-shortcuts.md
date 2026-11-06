@@ -12,6 +12,10 @@
 
 `super + space + backspace` = Move back to the original position
 
+`super + pgup` = Toggle maximize
+
+`super + pgdn` = Minimize
+
 # Desktop control
 
 `super + w` = Manage desktops
