@@ -12,6 +12,14 @@
 
 `super + space + backspace` = Move back to the original position
 
+# Desktop control
+
+`super + w` = Manage desktops
+
+`super + ctrl + left or right` = move to another desktop
+
+`super + ctrl + shift + left or right` = move to another desktop with the current window
+
 # Tab control
 
 `ctrl + pgup or pgdn` = Move to next or prev tab.
